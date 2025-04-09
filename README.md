@@ -4,9 +4,6 @@
 
 <h1 align="center">Projeto Dragon Ball </h1>
 
-<div class="imagem" align="center">
-  <img src="github/preview2.jpg" alt="Capa Projeto">
-</div>
 
 <p align="center">
 Uma imersão épica de 7 dias com os irmãos Dev em Dobro! 🐉
@@ -35,6 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
+<p align="center">
+<img alt="Goku GIF" src="https://github.com/user-attachments/assets/d28f5592-ce44-46b6-85eb-b30923088f6b">
+</p>
 
 ## 💻 Projeto
 
@@ -53,9 +53,9 @@ Durante essa jornada, você vai construir uma aplicação completa, cheia de efe
 
 <br>
 
-<p align="center">
-<img alt="Goku GIF" src="https://github.com/user-attachments/assets/d28f5592-ce44-46b6-85eb-b30923088f6b">
-</p>
+<div class="imagem" align="center">
+  <img src="github/preview2.jpg" alt="Capa Projeto">
+</div>
 
 <br>
 
