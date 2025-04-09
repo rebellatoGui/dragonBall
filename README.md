@@ -4,6 +4,10 @@
 
 <h1 align="center">Projeto Dragon Ball </h1>
 
+<div class="imagem" align="center">
+  <img src="github/preview2.jpg" alt="Capa Projeto">
+</div>
+
 <p align="center">
 Uma imersão épica de 7 dias com os irmãos Dev em Dobro! 🐉
 </p>
@@ -31,7 +35,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/d28f5592-ce44-46b6-85eb-b30923088f6b" alt="Goku GIF" style="display: block; margin: 0 auto;">
 
 ## 💻 Projeto
 
@@ -47,6 +50,12 @@ Durante essa jornada, você vai construir uma aplicação completa, cheia de efe
 - Introdução a Inteligência Artificial no front-end
 
 - Dicas valiosas de produtividade e carreira no desenvolvimento
+
+<br>
+
+<p align="center">
+<img alt="Goku GIF" src="https://github.com/user-attachments/assets/d28f5592-ce44-46b6-85eb-b30923088f6b">
+</p>
 
 <br>
 
@@ -67,9 +76,6 @@ Durante essa jornada, você vai construir uma aplicação completa, cheia de efe
 
 <br>
 
-<div class="imagem" align="center">
-  <img src="github/preview2.jpg" alt="Capa Projeto">
-</div>
 
 ---
 
@@ -78,10 +84,3 @@ Durante essa jornada, você vai construir uma aplicação completa, cheia de efe
 <p align="center">
   <img alt="Ícone Dragon Ball" src="github/iconedragonball.svg">
 </p>
-
-<style>
-  .imagem img {
-    border: 0px solid #000;
-    border-radius: 15px;
-  }
-</style>
