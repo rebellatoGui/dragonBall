@@ -1,4 +1,4 @@
-@media (max-width: 768px) {
+@media (max-width: 868px) {
     main::after {
         background: linear-gradient(0deg, #000 45%, rgba(0, 0, 0, 0.00) 70%) no-repeat;
         width: 100vw;
@@ -43,7 +43,7 @@
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 440px) {
     main .personagem .imagem {
         height: auto;
     }
