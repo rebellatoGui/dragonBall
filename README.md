@@ -59,7 +59,7 @@ Durante essa jornada, você vai construir uma aplicação completa, cheia de efe
 
 <br>
 
-<h2 align="center">🤝 Colaboradores </h2>
+<h2 align="center">📌 Desenvolvedores</h2>
 
 <table align="center">
   <tr>
