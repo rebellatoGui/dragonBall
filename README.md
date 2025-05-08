@@ -4,7 +4,6 @@
 
 <h1 align="center">Projeto Dragon Ball </h1>
 
-
 <p align="center">
 Uma imersão épica de 7 dias com os irmãos Dev em Dobro! 🐉
 </p>
@@ -15,7 +14,7 @@ Uma imersão épica de 7 dias com os irmãos Dev em Dobro! 🐉
 </p>
 
 <div class="imagem" align="center">
-  <img alt="Capa Dragon Ball" src="github/preview1.jpg">
+  <img alt="Capa Dragon Ball" src="github/previewdb.png">
 </div>
 
 <br>
@@ -42,7 +41,6 @@ A Semana Do Zero Ao Programador Contratado é um projeto imersivo de uma semana,
 
 Durante essa jornada, você vai construir uma aplicação completa, cheia de efeitos, interações e referências ao anime, enquanto aprende:
 
-
 - Fundamentos sólidos de HTML, CSS e JavaScript
 
 - Clean Code: Escrevendo código limpo, organizado e fácil de manter
@@ -54,7 +52,7 @@ Durante essa jornada, você vai construir uma aplicação completa, cheia de efe
 <br>
 
 <div class="imagem" align="center">
-  <img src="github/preview2.jpg" alt="Capa Projeto">
+  <img src="github/previewevento.png" alt="Capa Projeto">
 </div>
 
 <br>
@@ -75,7 +73,6 @@ Durante essa jornada, você vai construir uma aplicação completa, cheia de efe
 </table>
 
 <br>
-
 
 ---
 
